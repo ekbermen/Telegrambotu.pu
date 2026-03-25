@@ -1,5 +1,4 @@
 logging
 asyncio
 yt_dlp
-os
 python-telegram-bot
