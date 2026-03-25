@@ -1,0 +1,6 @@
+logging
+asyncio
+yt_dlp
+re
+os
+python-telegram-bot
