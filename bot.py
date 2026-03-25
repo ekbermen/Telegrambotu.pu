@@ -7,7 +7,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackQueryHandler, ContextTypes
 
 # --- AYARLAR ---
-TOKEN = '7991569721:AAEJswSvHnjmq6OFJb2QRDehK45DFpv4m1Y'
+TOKEN = '7991569721:AAFQXQXSjXfk1tBZd8FtyyDwhhW7RRJbnik'
 user_url_storage = {}
 SAVE_PATH = "/sdcard/Download/Video Downloader Telegram"
 
